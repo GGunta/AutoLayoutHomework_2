@@ -95,7 +95,7 @@
                                     </constraint>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Copperplate" family="Copperplate" pointSize="21"/>
-                                <state key="normal" title="Button A">
+                                <state key="normal" title="Button  a">
                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                             </button>
